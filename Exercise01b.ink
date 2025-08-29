@@ -1,17 +1,24 @@
 /*
-This is a comment block. It won't be read as an Ink story.
-Comments are very useful for leaving ideas for story and functionalty
+Note: This took about an hour to code
 
-This exercise will demonstrate the following in the example video:
- - Basic Choices
- - Knot structure
- - Recurring choices
- - Conditionals in descriptions
- - Conditionals in choices
- 
- In the assignment:
- - Add four more knots (and feel free to change any of the example text, this is YOUR story)
- - Add at least one more conditional
+I got bored so I started reading the *entire* documentation for inky, very interesting
+
+To note, learned that this languge does NOT support the use of spaces in list
+
+I could not write "Teddy Bear" as a toy, it had to be "Bear" or "Teddy", very >:(
+
+but anyways that was, fairly easy. (Though learning another programming language always comes with its challenges
+
+to quote me, "20% of programming is learning how to program, as theres a lot of overlap between languages, the other 80% is learning the special autistic way each programming language wants to do the exact same thing, also known as its syntax"
+
+Anyways, this little "interactive story/game" is random for each playthrough, the
+toy and location of the toy are randomized, while there are only 4 places, I think it is a good starting point for my start in overcomplicating!
+
+Did I ever mention I want to learn networking? Yeah and Ill probably be bored enough
+to learn it.
+
+Anyways, enjoy the project.
+
 */
 
 
